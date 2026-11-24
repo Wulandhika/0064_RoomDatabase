@@ -13,3 +13,6 @@
 <img width="1747" height="966" alt="Cuplikan layar 2026-11-19 155122" src="https://github.com/user-attachments/assets/c42b2333-83e1-480a-ae26-430802db77b2" />
 
 <img width="1732" height="962" alt="Cuplikan layar 2026-11-19 155148" src="https://github.com/user-attachments/assets/413acd4f-8b12-4c47-9cf7-84d95ec654ac" />
+
+
+<img width="1319" height="642" alt="image" src="https://github.com/user-attachments/assets/a76b5447-37f8-4a55-a183-9de04fd4b3cd" />
