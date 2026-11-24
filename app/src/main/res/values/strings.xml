@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application 9</string>
+    <string name="entry_siswa">Entry Siswa</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="telpon">Telpon</string>
+    <string name="btn_submit">Submit</string>
+    <string name="required_field">Semua field wajib diisi</string>
+    <string name="deskripsi_no_item">Tidak ada data siswa</string>
+    <string name="back">Kembali</string>
+</resources>
