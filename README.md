@@ -16,3 +16,6 @@
 
 
 <img width="1319" height="642" alt="image" src="https://github.com/user-attachments/assets/a76b5447-37f8-4a55-a183-9de04fd4b3cd" />
+
+<img width="1339" height="688" alt="Cuplikan layar 2026-11-24 140444" src="https://github.com/user-attachments/assets/bb3c6a89-0428-4cf8-ae07-63ba6f294812" />
+
